@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Sokol Bazar Admin</string>
+
+    <string-array name="offerstyep">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+
+    </string-array>
+
+
+    <string-array name="order_status">
+        <item>select one</item>
+        <item>recevied</item>
+        <item>confirmed</item>
+        <item>preparing</item>
+        <item>ready</item>
+
+    </string-array>
+
+    <string-array name="user_status">
+        <item>select one</item>
+        <item>active</item>
+        <item>deactive</item>
+
+
+    </string-array>
+    <string name="title_activity_admin_login">AdminLoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
